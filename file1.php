@@ -1,5 +1,5 @@
 <?php
-$x = "Hello world!";
+$x = "Hello!";
 $y = 'Hello world!';
 
 echo $x;
