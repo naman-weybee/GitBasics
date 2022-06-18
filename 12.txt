@@ -1,0 +1,1 @@
+php is use to connect apache server to database
